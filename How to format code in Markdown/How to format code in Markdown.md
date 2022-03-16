@@ -22,11 +22,11 @@
 
 \`\`\`
 
-}var add2 = function(number)
+var add2 = function(number){
 
 return number + 2;
 
-{
+}
 
 \`\`\`
 
@@ -63,7 +63,7 @@ var add2 = function(number) {
 </div>
 ```
 
-\`\`\`ruby:
+أو  \`\`\`ruby:
 
 ```ruby
 "Hello World".split('').each do |letter|
@@ -90,6 +90,9 @@ while b < 10:
 
 ### تنسيق AZERTY:
 
-![8f65c339ce4eefd9d79841f3dc54f4c37cab2e77](https://www.freecodecamp.org/news/content/images/2020/04/8f65c339ce4eefd9d79841f3dc54f4c37cab2e77.png)
+<p align="right">
+  <img src="https://www.freecodecamp.org/news/content/images/2020/04/8f65c339ce4eefd9d79841f3dc54f4c37cab2e77.png" alt="Keyboard Layout" title="Keyboard Layout">
+  <br>
+  <img src="https://www.freecodecamp.org/news/content/images/2020/04/de291f0895b0fed992726a62d654f4e1f0e421f3.png" alt="Keyboard Layout" title="keyboard Layout">
 
-![de291f0895b0fed992726a62d654f4e1f0e421f3](https://www.freecodecamp.org/news/content/images/2020/04/de291f0895b0fed992726a62d654f4e1f0e421f3.png)
+</p>
